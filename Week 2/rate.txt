@@ -1,0 +1,10 @@
+Starting Price: $1.00
+On day 1 price is: $1.17
+On day 2 price is: $1.12
+On day 3 price is: $1.06
+On day 4 price is: $1.02
+On day 5 price is: $1.07
+On day 6 price is: $1.06
+On day 7 price is: $1.02
+On day 8 price is: $1.03
+On day 9 price is: $0.98
