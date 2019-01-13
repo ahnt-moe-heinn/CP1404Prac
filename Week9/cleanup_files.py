@@ -40,6 +40,7 @@ def get_fixed_filename(filename):
             (filename[i-1].isupper() and filename[i+1].isspace() and\
              filename[i+1].isupper()) or (filename[i].isupper() and filename[i-1].isupper()):
             new_name = new_name+"_"+filename[i]
+
         else:
             new_name += filename[i]
     new_name = filename.replace(" ", "_").replace(".TXT", ".txt")
